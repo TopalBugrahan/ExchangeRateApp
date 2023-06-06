@@ -11,7 +11,11 @@ Products_App is a mobile application where you can view, search and see the deta
 
 ## Demo
 
-<img src="https://github.com/TopalBugrahan/ExchangeRateApp/assets/76047788/89b625a5-d552-4145-97f9-af9cc552503a" width="320" height="500"/>
+<img src="https://github.com/TopalBugrahan/ExchangeRateApp/assets/76047788/7d03a368-6887-46eb-8d95-f15c461b3b97" width="320" height="500"/>
+
+
+
+
 
 
 
